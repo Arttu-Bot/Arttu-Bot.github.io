@@ -1,4 +1,4 @@
-document.addEventListenenr("DOMContentLoaded", onkoKirjautunut);
+document.addEventListener("DOMContentLoaded", onkoKirjautunut);
 
 function onkoKirjautunut(){
 let kirjautunut = 'kylla';
